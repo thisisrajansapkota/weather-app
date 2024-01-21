@@ -95,7 +95,7 @@ body {
   }
 }
 
-@media (max-width: 566) {
+@media (max-width: 566px) {
   .card {
     margin: 70px 0px;
     height: auto;
